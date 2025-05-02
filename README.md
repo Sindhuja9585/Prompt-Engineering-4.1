@@ -1,6 +1,10 @@
 # EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
 ### DATE:
 ### REG NO: 212222220047
+
+# AIM:
+To demonstrate how different prompting techniques can be used to improve the performance and contextual relevance of an AI-based health assistant system—MediGuide—in providing support for elderly patients with chronic diseases.
+
 # Description: 
 ## Background:
 You are part of a development team working on an AI-based Smart Health Assistant named "MediGuide". This virtual assistant is designed to help elderly patients manage chronic conditions such as diabetes, hypertension, and arthritis. MediGuide's capabilities include:
